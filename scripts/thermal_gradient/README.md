@@ -4,7 +4,7 @@ This is based on the technique used by Seek but is a non-faithful reproduction t
 
 The script is tested with GNU Octave 3.8.2, it should also work with Matlab.
 
-Useful invokations:
+Useful invocations:
 
 	% Load the data files
 	load('data/floor.mat');
